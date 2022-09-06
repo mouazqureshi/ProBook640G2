@@ -1,4 +1,4 @@
-# HP ProBook 640 G2 Monterey 12.5 - Opencore 0.7.6
+# HP ProBook 640 G2 Monterey 12.5 - Opencore 0.8.3
  
 
 ## SUCCESS WORKING
@@ -37,4 +37,4 @@ Full iGPU acceleration (1536MB Memory)
 <br> FingerPrint Sensor (Not Supported)
 
 ### USED BOOTLOADER
-OpenCore 0.7.6
+OpenCore 0.8.3
